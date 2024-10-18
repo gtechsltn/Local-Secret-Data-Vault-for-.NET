@@ -1,0 +1,6 @@
+@LocalVaultWebApi_HostAddress = http://localhost:5122
+
+GET {{LocalVaultWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
